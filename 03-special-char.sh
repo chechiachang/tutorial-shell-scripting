@@ -55,7 +55,14 @@ Array=(1 2 3)
 # Extended brace expansion
 {a..z}
 
+# Exit status parameter
+$?
 
+# Process ID
+$$
+
+# A list of commands whithin parentheses start a subshell
+(a=hello; echo $a)
 
 exit 0
 
