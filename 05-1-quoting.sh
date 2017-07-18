@@ -18,7 +18,7 @@ COMMAND This is $variables
 if [[ "$(du "$My_File1")" -gt "$(du "$My_File2")" ]]
 then
 
-fi
+
 
 
 
