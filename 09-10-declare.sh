@@ -30,9 +30,16 @@ declare -a indices
 # -f function
 declare -f function_name
 
-# -x var3
+# -x export
 delcare -x var3
 
 declare -x var3=373
 
+func1 (){
+  echo This is a function
+}
+
+declare -f	# Lists the function
+
 exit 0
+
