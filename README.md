@@ -9,6 +9,6 @@ A wonderful free book called [Advanced Bash-Scripting Guide](http://tldp.org/LDP
 
 # When to use Shell Sciprt
 
-
-
 # Let's get started
+
+# Review
