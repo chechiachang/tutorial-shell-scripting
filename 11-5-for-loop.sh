@@ -16,6 +16,7 @@ do
 	echo "Remove file \"$file\"".
 done
 
+
 echo 
 
 exit 0
